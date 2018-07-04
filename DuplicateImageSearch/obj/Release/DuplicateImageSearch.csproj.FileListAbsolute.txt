@@ -1,0 +1,11 @@
+C:\Users\zfyzd\source\repos\DuplicateImageSearch\DuplicateImageSearch\bin\Release\libwebp_x64.dll
+C:\Users\zfyzd\source\repos\DuplicateImageSearch\DuplicateImageSearch\bin\Release\libwebp_x86.dll
+C:\Users\zfyzd\source\repos\DuplicateImageSearch\DuplicateImageSearch\bin\Release\DuplicateImageSearch.exe.config
+C:\Users\zfyzd\source\repos\DuplicateImageSearch\DuplicateImageSearch\bin\Release\DuplicateImageSearch.exe
+C:\Users\zfyzd\source\repos\DuplicateImageSearch\DuplicateImageSearch\bin\Release\DuplicateImageSearch.pdb
+C:\Users\zfyzd\source\repos\DuplicateImageSearch\DuplicateImageSearch\obj\Release\DuplicateImageSearch.Form1.resources
+C:\Users\zfyzd\source\repos\DuplicateImageSearch\DuplicateImageSearch\obj\Release\DuplicateImageSearch.Properties.Resources.resources
+C:\Users\zfyzd\source\repos\DuplicateImageSearch\DuplicateImageSearch\obj\Release\DuplicateImageSearch.csproj.GenerateResource.Cache
+C:\Users\zfyzd\source\repos\DuplicateImageSearch\DuplicateImageSearch\obj\Release\DuplicateImageSearch.csproj.CoreCompileInputs.cache
+C:\Users\zfyzd\source\repos\DuplicateImageSearch\DuplicateImageSearch\obj\Release\DuplicateImageSearch.exe
+C:\Users\zfyzd\source\repos\DuplicateImageSearch\DuplicateImageSearch\obj\Release\DuplicateImageSearch.pdb
